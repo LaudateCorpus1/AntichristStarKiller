@@ -1,0 +1,30 @@
+{
+  "name": "cobolbebop",
+  "version": "0.0.1",
+  "description": "Basic Satanistical shoot'em up for learning purpose",
+  "main": "index.html",
+  "scripts": {
+    "test": "nw ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinzusama/CobolBebop.git"
+  },
+  "keywords": [
+    "phaser.io",
+    "satan",
+    "santa",
+    "satna",
+    "gameshell"
+  ],
+  "author": "Vincent Poinpoin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinzusama/CobolBebop/issues"
+  },
+  "homepage": "https://github.com/vinzusama/CobolBebop#readme",
+  "dependencies": {
+    "nwjs": "^1.4.4",
+    "phaser": "^3.16.1"
+  }
+}
