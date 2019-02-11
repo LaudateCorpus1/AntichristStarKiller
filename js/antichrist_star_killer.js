@@ -21,11 +21,14 @@ function preload() {
 
 function create() {
   this.add.image('400', '250', 'nightsky');
-  let ship = this.add.image('200', '300', 'ship_white');
-  // ship.width = '35';
-  // ship.height = '60';
-  ship.setDisplaySize('70', '120');
+  let ship = this.add.image('160', '215', 'ship_white');
+  ship.setDisplaySize('18', '28');
 }
 
 function update() {
+  // if (this.escKey.isDown)
+  // {
+  //   // nwjs related code to close the application
+  //   nw.App.closeAllWindows();
+  // }
 }
