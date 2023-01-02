@@ -35,6 +35,6 @@
   "homepage": "https://github.com/vinzusama/CobolBebop#readme",
   "dependencies": {
     "nwjs": "^1.4.4",
-    "phaser": "^3.16.1"
+    "phaser": "^3.55.2"
   }
 }
